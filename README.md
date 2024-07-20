@@ -1,3 +1,13 @@
-Game of Pong
+# Game Of Pong
 
-![Screenshot 2024-07-18 144031](https://github.com/user-attachments/assets/8c7c27a0-ef8d-4d8b-b33a-6cf7c53fe690)
+![Pong](https://github.com/user-attachments/assets/3bcfa631-0381-40e1-88ab-d5a1e82571b8)
+
+
+
+## Download
+- Clone the project.
+- Run the `pong.exe`
+
+## Gameplay
+
+![Screenshot 2024-07-20 175809](https://github.com/user-attachments/assets/f8f56fa2-31ab-475c-92fd-5d0c4b274f2e)
